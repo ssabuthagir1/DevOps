@@ -1,4 +1,4 @@
 Hi Saran,
 
-THis is our test file
+This is our test file and for git project
 How are you doing?
