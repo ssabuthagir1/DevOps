@@ -1,4 +1,12 @@
 Hi Saran,
 
+<<<<<<< HEAD
 This is our test file
 Are you ok?
+||||||| merged common ancestors
+THis is our test file
+How are you doing?
+=======
+THis is our test file
+How are you doing and have nice day?
+>>>>>>> feature
