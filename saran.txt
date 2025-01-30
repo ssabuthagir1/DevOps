@@ -1,7 +1,6 @@
 Hi Saran,
 
-<<<<<<< HEAD
-This is our test file
+<<<<<<< HEA
 Are you ok?
 ||||||| merged common ancestors
 THis is our test file
