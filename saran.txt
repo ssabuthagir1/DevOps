@@ -1,11 +1,6 @@
 Hi Saran,
 
-<<<<<<< HEA
 Are you ok?
-||||||| merged common ancestors
-
 How are you doing?
-=======
 THis is our test file
 How are you doing and have nice day?
->>>>>>> feature

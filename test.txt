@@ -1,8 +1,3 @@
-<<<<<<< HEAD
 Hi this is to check merge conflict
 Dev1 added lines in test file from master branch
-||||||| merged common ancestors
-=======
 Dev2 added lines from feature branch
->>>>>>> feature
-jhgjhkhjhi;j;ljo;jo
